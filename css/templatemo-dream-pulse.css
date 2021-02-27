@@ -1,10 +1,10 @@
-/*
-
-DREAM PULSE
-
-https://templatemo.com/tm-536-dream-pulse
-
-*/
+.tm-about {
+  display: flex;
+  align-items: center;
+  height: auto;
+  max-width: 1275px;
+  padding: 10px 60px;
+}
 
 body {
   font-family: "Open Sans", Arial, Helvetica, sans-serif;
